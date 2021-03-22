@@ -1,10 +1,10 @@
 ####################################################
-## Coded by Darwin Pucha Cofrep
 ##  Plot rings  V2.3
 ##  Natural shape of rings
 ## plotRings Make a plot and/or animation of a cross section based on up to four ring-width series. 
 ## Gives basic summary statistics (e.g. annual basal area, mean ring width) of an approximated stem disc.
-## Date: may.2018
+## Creation Date: may.2018
+## Coded by Darwin Pucha Cofrep
 ## Updates: 24.may.2018, 
 ## Last update: 21.mar.2021
 ###################################################
